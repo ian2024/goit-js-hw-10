@@ -35,4 +35,6 @@ li {
 .country-thumb {
   display: flex;
 }
-
+.country-text {
+  font-weight: bold;
+}
